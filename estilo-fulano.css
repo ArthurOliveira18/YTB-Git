@@ -2,3 +2,9 @@ h1{
     font-size: 20px;
     display: flex;
 }
+
+a{
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+}
